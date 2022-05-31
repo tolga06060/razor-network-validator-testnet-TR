@@ -24,7 +24,7 @@ Contract address: 0xDc342De801De342EdE013C7E6e7a78Fa4f548041
 # Faucettan token talep ediyoruz:
 
 ```
-ttps://faucet.skale.network/
+https://faucet.skale.network/
 ```
 
 # Skale Endpoint kısmına bu adresi yapıştıyoruz:
